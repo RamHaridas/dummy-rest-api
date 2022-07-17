@@ -1,0 +1,15 @@
+Flask==1.1.2
+Flask-RESTful
+Flask-JWT
+Flask-SQLAlchemy
+firebase-admin
+Flask-Migrate==2.6.0 
+Flask-Script
+Flask-Assets
+openpyxl
+alembic
+#uwsgi
+psycopg2
+jinja2==3.0.3
+itsdangerous==2.0.1
+werkzeug==2.0.3
